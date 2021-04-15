@@ -19,6 +19,8 @@ languages:
     languageName: "Русский"
     menu:
       main:
+        - name: Категории
+          url: /categories/
         - name: Архив
           url: /archives/
 
