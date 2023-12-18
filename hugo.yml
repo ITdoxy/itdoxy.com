@@ -75,6 +75,8 @@ params:
     - name: github
       url: "https://github.com/ITdoxy"
 
+  ShareButtons: ["linkedin", "reddit", "whatsapp", "telegram"] # To customize which share buttons to be enabled on page
+
   assets:
     favicon: "/favicon.ico"
     favicon16x16: "/favicon-16x16.png"
