@@ -22,22 +22,22 @@ languages:
     languageName: "Русский"
     menu:
       main:
-        - name: Форум
+        - name: 🏛 Форум
           url: https://t.me/ITDOXY_FORUM
           weight: 1
-        - name: Лаборатория
+        - name: 🧪 Лаборатория
           url: https://lab.itdoxy.com
           weight: 2
-        - name: Услуги
+        - name: 🛠 Услуги
           url: /services/
           weight: 3
-        - name: Категории
+        - name: 🏷 Категории
           url: /categories/
           weight: 4
-        - name: Архив
+        - name: 🗄 Архив
           url: /archives/
           weight: 5
-        - name: Поиск
+        - name: 🔎 Поиск
           url: /search/
           weight: 6
 
