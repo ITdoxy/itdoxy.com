@@ -84,8 +84,8 @@ params:
       url: "https://t.me/ITdoxy"
     - name: vk
       url: "https://vk.com/itdoxy"
-    - name: twitter
-      url: "https://twitter.com/ITdoxy"
+    - name: x
+      url: "https://x.com/ITdoxy"
 
   ShareButtons: ["x", "linkedin", "reddit", "whatsapp", "telegram", "ycombinator"] # To customize which share buttons to be enabled on page
 
